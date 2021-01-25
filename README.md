@@ -1,2 +1,2 @@
-#笨办法学python3
-##print
+# 笨办法学python3
+## print
